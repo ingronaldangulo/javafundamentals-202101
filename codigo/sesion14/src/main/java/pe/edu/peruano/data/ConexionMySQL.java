@@ -6,12 +6,12 @@ import java.sql.SQLException;
 
 public class ConexionMySQL {
     //Java database connector
-    public static String JDBC_DRIVER = "com.mysql.jdbc.Driver";//5
+    public static String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";//8
     public  static String URL = "jdbc:mysql://localhost:3306/java_fundamentals";
 
     //Credenciales
     public static String USERNAME = "root";
-    public static String PASSWORD = "";
+    public static String PASSWORD = "123456";
 
     public static Connection obtenerConexion() {
         Connection cnn = null;
