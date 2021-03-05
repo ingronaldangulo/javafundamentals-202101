@@ -13,20 +13,20 @@ public class ConexionMySQL {
     public static String USERNAME = "root";
     public static String PASSWORD = "";
 
-    public static Connection obtenerConexion(){
-
+    public static Connection obtenerConexion() {
         Connection cnn = null;
 
         try {
             Class.forName(JDBC_DRIVER);
             cnn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
-
-        }catch (ClassNotFoundException e1){
+        }
+        catch (ClassNotFoundException e1){
             e1.printStackTrace();
-        }catch (SQLException e2){
+        }
+        catch (SQLException e2){
             e2.printStackTrace();
         }
-
         return cnn;
+
     }
 }

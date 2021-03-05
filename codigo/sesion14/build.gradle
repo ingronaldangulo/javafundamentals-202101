@@ -15,7 +15,6 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
     implementation 'org.projectlombok:lombok:1.18.16'
     implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.23'
-
 }
 
 test {
