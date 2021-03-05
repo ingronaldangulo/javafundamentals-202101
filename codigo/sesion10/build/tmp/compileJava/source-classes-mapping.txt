@@ -1,0 +1,29 @@
+pe/edu/peruano/entity/ClienteJuridico.java
+ pe.edu.peruano.entity.ClienteJuridico
+ pe.edu.peruano.entity.ClienteJuridico$ClienteJuridicoBuilder
+pe/edu/peruano/ui/TestHerencia.java
+ pe.edu.peruano.ui.TestHerencia
+pe/edu/peruano/entity/Corredor.java
+ pe.edu.peruano.entity.Corredor
+pe/edu/peruano/entity/Nadador.java
+ pe.edu.peruano.entity.Nadador
+pe/edu/peruano/entity/Test.java
+ pe.edu.peruano.entity.Test
+pe/edu/peruano/entity/Ciclista.java
+ pe.edu.peruano.entity.Ciclista
+pe/edu/peruano/entity/Cliente.java
+ pe.edu.peruano.entity.Cliente
+pe/edu/peruano/entity/ClienteNatural.java
+ pe.edu.peruano.entity.ClienteNatural
+ pe.edu.peruano.entity.ClienteNatural$ClienteNaturalBuilder
+pe/edu/peruano/ui/TestInterface.java
+ pe.edu.peruano.ui.TestInterface
+pe/edu/peruano/entity/Atleta.java
+ pe.edu.peruano.entity.Atleta
+ pe.edu.peruano.entity.Atleta$AtletaBuilder
+pe/edu/peruano/entity/SexoEnum.java
+ pe.edu.peruano.entity.SexoEnum
+pe/edu/peruano/ui/TestEnum.java
+ pe.edu.peruano.ui.TestEnum
+pe/edu/peruano/entity/TipoDocumentoEnum.java
+ pe.edu.peruano.entity.TipoDocumentoEnum

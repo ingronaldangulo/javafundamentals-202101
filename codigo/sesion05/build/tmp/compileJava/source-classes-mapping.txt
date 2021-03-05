@@ -1,0 +1,8 @@
+pe/edu/peruano/ui/EstructuraFor.java
+ pe.edu.peruano.ui.EstructuraFor
+pe/edu/peruano/ui/EstructuraWhile.java
+ pe.edu.peruano.ui.EstructuraWhile
+pe/edu/peruano/ui/EstructuraDoWhile.java
+ pe.edu.peruano.ui.EstructuraDoWhile
+pe/edu/peruano/ui/ManejoExcepciones.java
+ pe.edu.peruano.ui.ManejoExcepciones

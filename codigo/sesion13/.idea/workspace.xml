@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9d97682-1bf6-45a6-bfac-feeae0c7bd43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../seion06/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/entity/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/entity/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/entity/CuentaAhorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/entity/DetalleVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/entity/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/entity/Venta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/ui/PooTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/ui/TestOnetoN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/ui/TestVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seion06/src/main/java/pe/edu/peruano/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion02/src/main/java/HolaMundo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/.idea/modules/sesion03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/src/main/java/pe/edu/peruano/data/AlumnoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/src/main/java/pe/edu/peruano/entity/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/src/main/java/pe/edu/peruano/entity/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/src/main/java/pe/edu/peruano/logic/AlumnoBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion03/src/main/java/pe/edu/peruano/ui/AlumnoUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/.idea/modules/sesion04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/src/main/java/pe/edu/peruano/ui/Condicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/src/main/java/pe/edu/peruano/ui/EstructuraFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/src/main/java/pe/edu/peruano/ui/EstructuraSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion04/src/main/java/pe/edu/peruano/ui/Operador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion05/.idea/modules/sesion05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion05/src/main/java/pe/edu/peruano/ui/EstructuraDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion05/src/main/java/pe/edu/peruano/ui/EstructuraFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion05/src/main/java/pe/edu/peruano/ui/EstructuraWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion05/src/main/java/pe/edu/peruano/ui/ManejoExcepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion09/.idea/modules/sesion09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion09/src/main/java/pe/edu/peruano/entity/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion09/src/main/java/pe/edu/peruano/entity/Deporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion09/src/main/java/pe/edu/peruano/entity/Electrodomestico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion09/src/main/java/pe/edu/peruano/entity/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion09/src/main/java/pe/edu/peruano/entity/Tecnologia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion09/src/main/java/pe/edu/peruano/ui/HerenciaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion09/src/main/java/pe/edu/peruano/ui/Sesion09Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/Atleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/Ciclista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/ClienteJuridico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/ClienteNatural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/Corredor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/Nadador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/SexoEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/entity/TipoDocumentoEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/logic/TransaccionPagoServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/logic/TransaccionRealizarDeposito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/logic/TransaccionRealizarTransferenciaTerceros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/ui/TestEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/ui/TestHerencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion10/src/main/java/pe/edu/peruano/ui/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/peruano/entity/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/peruano/lambda/LambdaConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/peruano/lambda/LambdaFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/peruano/lambda/LambdaPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/peruano/lambda/LambdaSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/peruano/ui/Arreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/peruano/ui/Colecciones.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ozyxvZaZOMVNixlx783N8UPju2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.LambdaFunction">
+    <configuration name="Arreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.peruano.ui.Arreglos" />
+      <module name="sesion13.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.peruano.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Colecciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.peruano.ui.Colecciones" />
+      <module name="sesion13.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.peruano.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.peruano.lambda.LambdaArray" />
+      <module name="sesion13.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.peruano.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.peruano.lambda.LambdaFunction" />
+      <module name="sesion13.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.peruano.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LambdaFunction" />
+        <item itemvalue="Application.LambdaArray" />
+        <item itemvalue="Application.Colecciones" />
+        <item itemvalue="Application.Arreglos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9d97682-1bf6-45a6-bfac-feeae0c7bd43" name="Default Changelist" comment="" />
+      <created>1614303964150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614303964150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

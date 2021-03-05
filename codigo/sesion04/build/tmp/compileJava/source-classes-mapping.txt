@@ -1,0 +1,8 @@
+pe/edu/peruano/ui/Operador.java
+ pe.edu.peruano.ui.Operador
+pe/edu/peruano/ui/EstructuraFor.java
+ pe.edu.peruano.ui.EstructuraFor
+pe/edu/peruano/ui/Condicional.java
+ pe.edu.peruano.ui.Condicional
+pe/edu/peruano/ui/EstructuraSwitch.java
+ pe.edu.peruano.ui.EstructuraSwitch

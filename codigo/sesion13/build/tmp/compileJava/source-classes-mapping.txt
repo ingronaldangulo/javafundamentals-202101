@@ -1,0 +1,17 @@
+pe/edu/peruano/entity/Categoria.java
+ pe.edu.peruano.entity.Categoria
+ pe.edu.peruano.entity.Categoria$CategoriaBuilder
+pe/edu/peruano/ui/Arreglos.java
+ pe.edu.peruano.ui.Arreglos
+pe/edu/peruano/ui/Colecciones.java
+ pe.edu.peruano.ui.Colecciones
+pe/edu/peruano/lambda/LambdaSupplier.java
+ pe.edu.peruano.lambda.LambdaSupplier
+pe/edu/peruano/lambda/LambdaConsumer.java
+ pe.edu.peruano.lambda.LambdaConsumer
+pe/edu/peruano/lambda/LambdaArray.java
+ pe.edu.peruano.lambda.LambdaArray
+pe/edu/peruano/lambda/LambdaPredicate.java
+ pe.edu.peruano.lambda.LambdaPredicate
+pe/edu/peruano/lambda/LambdaFunction.java
+ pe.edu.peruano.lambda.LambdaFunction

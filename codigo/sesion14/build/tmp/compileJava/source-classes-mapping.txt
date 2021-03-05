@@ -1,0 +1,10 @@
+pe/edu/peruano/lambda/LambdaSupplier.java
+ pe.edu.peruano.lambda.LambdaSupplier
+pe/edu/peruano/lambda/LambdaConsumer.java
+ pe.edu.peruano.lambda.LambdaConsumer
+pe/edu/peruano/lambda/LambdaPredicate.java
+ pe.edu.peruano.lambda.LambdaPredicate
+pe/edu/peruano/lambda/TestLambda.java
+ pe.edu.peruano.lambda.TestLambda
+pe/edu/peruano/lambda/LambdaFuntion.java
+ pe.edu.peruano.lambda.LambdaFuntion
